@@ -1,7 +1,16 @@
 {
+<<<<<<< HEAD
     "semi": true,
     "singleQuote": true,
     "useTabs": true,
     "tabWidth": 1,
     "arrowParens": "avoid"
 }
+=======
+  "semi": true,
+  "singleQuote": true,
+  "useTabs": true,
+  "tabWidth": 2,
+  "arrowParens": "avoid"
+}
+>>>>>>> 59af96538768fd0f5b3a3299ded1e7994b65b225
